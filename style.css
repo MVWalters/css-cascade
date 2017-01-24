@@ -2,3 +2,12 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
+p {
+background-color: #AEAED4;
+}
+#change {color: #FF3366;
+background-color: #FFFFFF;
+}
+main p {
+background-color: inherit;
+}
